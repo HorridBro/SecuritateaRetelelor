@@ -19,3 +19,6 @@ La pasul 1 am pornit o imagine cu un web server Apache care foloseste o versiune
 Pentru a rezolva acest laborator trebuie sa gasiti cheia care se afla in fisierul cu calea: **/etc/secret** prezent in containerul pe care l-am pornit la pasul 1.
 
 Acest exercitiu poate fi rezolvat doar cu ajutorul browserului, accesand urmatorul [link](http://localhost)
+
+Indicii:
+* Serverul Apache este configurat default
