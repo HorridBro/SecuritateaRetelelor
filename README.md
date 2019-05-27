@@ -25,4 +25,4 @@ Indicii:
 * Ar trebui sa va uitati la url si sa observati cum se schimba cand accesati link-ul precizat mai sus. 
 * Versiunea de PHP folosita este foarte veche si poate permite multe exploit-uri.
 
-Daca ati ajuns la o pagina cu mai multe mesaje in engleza, puteti cauta: **php null byte attack**
+Daca ati ajuns la o pagina cu mai multe mesaje in engleza, puteti cauta accesa urmatorul [link]http://www.google.com/search?q=php+null+byte+injection
