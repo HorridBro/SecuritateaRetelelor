@@ -10,6 +10,6 @@ sudo docker pull mihneass/websecurity
 ```
 #### Porniti imaginea
 ```
-sudo docker run -dt -p 80:80 mihneass/websecurity
+sudo docker run -d -p 80:80 mihneass/websecurity
 
 ```
