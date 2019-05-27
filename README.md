@@ -21,4 +21,5 @@ Pentru a rezolva acest laborator trebuie sa gasiti cheia care se afla in fisieru
 Acest exercitiu poate fi rezolvat doar cu ajutorul browserului, accesand urmatorul [link](http://localhost)
 
 Indicii:
-* Serverul Apache este configurat default
+* Serverul Apache are o configuratie default, deci locatia scripturilor care ruleaza pe web server e cunoscuta. 
+* Ar trebui sa va uitati la url si sa observati cum se schimba cand accesati link-ul de mai sus.
