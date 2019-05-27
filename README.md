@@ -24,3 +24,5 @@ Indicii:
 * Serverul Apache are o configuratie default, deci locatia scripturilor care ruleaza pe web server e cunoscuta. 
 * Ar trebui sa va uitati la url si sa observati cum se schimba cand accesati link-ul precizat mai sus. 
 * Versiunea de PHP folosita este foarte veche si poate permite multe exploit-uri.
+
+Daca ati ajuns la o pagina cu mai multe mesaje in engleza, puteti cauta: **php null byte attack**
