@@ -11,5 +11,7 @@ sudo docker pull mihneass/websecurity
 #### Porniti imaginea
 ```
 sudo docker run -d -p 80:80 mihneass/websecurity
-
 ```
+
+## Pasul 2
+La pasul 1 am pornit o imagine cu un web server Apache
